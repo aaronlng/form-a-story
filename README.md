@@ -6,7 +6,7 @@ The logic for parsing and inserting of user inputs is already taken care of in `
 
 What you have to do is now make a `<form>` capable of collecting the correct information so that the newly crafted story makes sense!
 
-> Project 3 in the Codecademy Web Development Course Module 1: HTML
+> Project 3 in the Codecademy Web Development Course Module 1: Learn HTML
 
 ## Author
 
